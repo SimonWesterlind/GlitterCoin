@@ -1,0 +1,12 @@
+{
+    "types": [
+        "node"
+    ],
+    "resolveJsonModule": true,
+    "compilerOptions": {
+        "rootDir": "./src",
+        "outDir": "./lib",
+        "experimentalDecorators": true,
+        "strictPropertyInitialization": false
+    }
+}
